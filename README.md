@@ -17,10 +17,11 @@
 
 1. [Print Hello World](HelloWorld.py)
 2. [To find Factorial](factorial.py)
-3. [To find prime or not]()
-4. [Add two numbers]()
+3. [To find prime or not](primeornot.py)
+4. [Add two numbers](addtwonumbers.py)
 
 ## Contact
 
 - Email - timstittus1@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/tims-tittus/)
+- Linkedin - [LinkedIn](https://www.linkedin.com/in/tims-tittus/)
+- X - [ X ](https://x.com/timstittus?t=TBTqYhCtUZEksGhDoPBGaA&s=09)
