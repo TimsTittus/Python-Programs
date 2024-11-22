@@ -16,9 +16,11 @@
 ## Programs
 
 1. [Print Hello World](HelloWorld.py)
-2. [To find Factorial](factorial.py)
-3. [To find prime or not](primeornot.py)
-4. [Add two numbers](addtwonumbers.py)
+2. [Add two numbers](addtwonumbers.py)
+3. [To find Factorial](factorial.py)
+4. [To find prime or not](primeornot.py)
+5. [Even or Odd Number Checker](EvenOrOddNumberChecker.py)
+6. [Number Guessing Game](NumberGuessingGame.py)
 
 ## Contact
 
