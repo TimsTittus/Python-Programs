@@ -20,7 +20,9 @@
 3. [To find Factorial](factorial.py)
 4. [To find prime or not](primeornot.py)
 5. [Even or Odd Number Checker](EvenOrOddNumberChecker.py)
-6. [Number Guessing Game](NumberGuessingGame.py)
+6. [Word Palindrome Checker](PalindromeChecker.py)
+7. [Number Guessing Game](NumberGuessingGame.py)
+8. [Simple Calculator](SimpleCalculator.py)
 
 ## Contact
 
