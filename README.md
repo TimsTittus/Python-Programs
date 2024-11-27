@@ -21,8 +21,10 @@
 4. [To find prime or not](primeornot.py)
 5. [Even or Odd Number Checker](EvenOrOddNumberChecker.py)
 6. [Word Palindrome Checker](PalindromeChecker.py)
-7. [Number Guessing Game](NumberGuessingGame.py)
-8. [Simple Calculator](SimpleCalculator.py)
+7. [Fibonacci Sequence Generator](FibonacciSequence.py)
+8. [Number Guessing Game](NumberGuessingGame.py)
+9. [Simple Calculator](SimpleCalculator.py)
+10. [Temperature Converter](TemperatureConverter.py)
 
 ## Contact
 
