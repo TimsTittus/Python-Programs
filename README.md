@@ -22,9 +22,10 @@
 5. [Even or Odd Number Checker](EvenOrOddNumberChecker.py)
 6. [Word Palindrome Checker](PalindromeChecker.py)
 7. [Fibonacci Sequence Generator](FibonacciSequence.py)
-8. [Number Guessing Game](NumberGuessingGame.py)
-9. [Simple Calculator](SimpleCalculator.py)
-10. [Temperature Converter](TemperatureConverter.py)
+8. [Multiplication Table](MultiplicationTable.py)
+9. [Number Guessing Game](NumberGuessingGame.py)
+10. [Simple Calculator](SimpleCalculator.py)
+11. [Temperature Converter](TemperatureConverter.py)
 
 ## Contact
 
