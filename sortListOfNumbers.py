@@ -2,4 +2,4 @@ num = input("Enter list of numbers seperated by spaces : ")
 
 num=num.split(",")
 num.sort()
-print("Sorted list : ",numberslist)
+print("Sorted list : ",num)
